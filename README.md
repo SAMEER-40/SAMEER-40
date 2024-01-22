@@ -1,4 +1,4 @@
-[![MasterHead](https://jmp.sh/s/IHxvHb79wbj3CVvl1SFP)]
+<img src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif" alt="MasterHead GIF" width="100%">
 <h1 align="center">Hi 👋, I'm SaM</h1>
 <h3 align="center">Python Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
