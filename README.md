@@ -1,7 +1,7 @@
-[![MasterHead](C:\Users\SAMEER\Downloads\output-onlinegiftools.gif)]
+[![MasterHead](C:\Users\SAMEER\Downloads\output-onlinegiftools.gif)](https://ibb.co/hKktZBh)
 <h1 align="center">Hi 👋, I'm SaM</h1>
 <h3 align="center">Python Developer</h3>
-<image align="right" alt="Coding" width="400" src="C:\Users\SAMEER\Downloads\output-onlinegiftools.gif">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-40&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-40" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer-40" alt="sameer-40" /></a> </p>
